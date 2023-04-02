@@ -2,11 +2,11 @@
 
 ## Full-Stack Developer
 
-My career experience has been in mainly DevOps and Backend development. I have also worked with Middleware like Tibco BusinessWorks. However, on my own time, I have been learning Front-end development and Machine Learning. My passion is in Data Analytics and I am currently learning more on that front.
+My career experience has been in mainly DevOps and Backend development. I have also worked with Middleware like Tibco BusinessWorks. Moreover, on my own time, I have been learning Front-end development and Machine Learning. My passion is in Analytics and I am currently learning more on that front.
 
 - 🌍  I'm based in Singapore
 - ✉️  You can contact me at [https://www.linkedin.com/in/roshnins/](mailto:https://www.linkedin.com/in/roshnins/)
-- 🧠  I'm learning Machine Learning and Web 3.0 development
+- 🧠  I'm learning Machine Learning and Financial Modeling 
 - 🤝  I'm open to collaborating on Machine Learning projects
 
 ### Skills
