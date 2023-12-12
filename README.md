@@ -1,13 +1,13 @@
 # Hi 👋 My name is Roshni
 
-## Full-Stack Developer
+## Analyst
 
-My career experience has been in mainly DevOps and Backend development. I have also worked with Middleware like Tibco BusinessWorks. Moreover, on my own time, I have been learning Front-end development and Machine Learning. My passion is in Analytics and I am currently learning more on that front.
+My career experience has been in mainly DevOps and Backend development. I have also worked with Middleware like Tibco BusinessWorks. Moreover, on my own time, I have been learning Financial Modeling and Machine Learning. My passion is to use my quantitative knowledge to solve financial problems
 
 - 🌍  I'm based in Singapore
 - ✉️  You can contact me at [https://www.linkedin.com/in/roshnins/](mailto:https://www.linkedin.com/in/roshnins/)
-- 🧠  I'm learning Machine Learning and Financial Modeling 
-- 🤝  I'm open to collaborating on Machine Learning projects
+- 🧠  I'm learning Financial Analysis 
+- 🤝  I'm open to collaborating on quant projects
 
 ### Skills
 
